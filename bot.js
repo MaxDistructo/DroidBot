@@ -6,7 +6,7 @@ var serverUrl = "www.exampleserver.com:port";
 var dnldlnk = "www.exampledownload.com";
 var fourm = "http://lufiahang.comxa.com/001/forem/index.php";
 var discordLnk = "http://discord.gg/";
-var rule = ["Don't be a DICK", "Rule2","Rule3","Rule4","Rule5"];
+var rule = ["Don't be a DICK", "Keep the Chat PG-13 or Lower! ","Don't Spam The Chat!","Keep the channel on topic!","Have Fun!"];
 
 // the token of your bot - https://discordapp.com/developers/applications/me
 const token = 'your bot token here';
