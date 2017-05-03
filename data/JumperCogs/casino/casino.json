@@ -1,0 +1,188 @@
+{
+    "Servers" : {
+        "268370862661435392" : {
+            "Games" : {
+                "Allin" : {
+                    "Access Level" : 0,
+                    "Cooldown" : 86400,
+                    "Multiplier" : 2.2,
+                    "Open" : true
+                },
+                "Blackjack" : {
+                    "Access Level" : 0,
+                    "Cooldown" : 5,
+                    "Max" : 500,
+                    "Min" : 50,
+                    "Multiplier" : 2.2,
+                    "Open" : true
+                },
+                "Coin" : {
+                    "Access Level" : 0,
+                    "Cooldown" : 5,
+                    "Max" : 10,
+                    "Min" : 10,
+                    "Multiplier" : 1.5,
+                    "Open" : true
+                },
+                "Cups" : {
+                    "Access Level" : 0,
+                    "Cooldown" : 5,
+                    "Max" : 500,
+                    "Min" : 50,
+                    "Multiplier" : 2.2,
+                    "Open" : true
+                },
+                "Dice" : {
+                    "Access Level" : 0,
+                    "Cooldown" : 5,
+                    "Max" : 500,
+                    "Min" : 50,
+                    "Multiplier" : 2.2,
+                    "Open" : true
+                },
+                "Hi-Lo" : {
+                    "Access Level" : 0,
+                    "Cooldown" : 5,
+                    "Max" : 20,
+                    "Min" : 20,
+                    "Multiplier" : 1.5,
+                    "Open" : true
+                },
+                "War" : {
+                    "Access Level" : 0,
+                    "Cooldown" : 5,
+                    "Max" : 20,
+                    "Min" : 20,
+                    "Multiplier" : 1.5,
+                    "Open" : true
+                }
+            },
+            "Memberships" : {
+                "Platinum-Admin" : {
+                    "Access" : 500000000000,
+                    "Color" : "red",
+                    "Cooldown Reduction" : 0,
+                    "Payday" : 1000000000,
+                    "Requirements" : {
+                        "Role" : "Admin"
+                    }
+                }
+            },
+            "Players" : {
+                "162399111377584128" : {
+                    "Chips" : 2000000000,
+                    "Cooldowns" : {
+                        "Allin" : 1212883,
+                        "Blackjack" : 1184987,
+                        "Coin" : 0,
+                        "Cups" : 0,
+                        "Dice" : 0,
+                        "Hi-Lo" : 0,
+                        "Payday" : 1212905,
+                        "War" : 0
+                    },
+                    "Membership" : "Platinum-Admin",
+                    "Name" : "Toasty",
+                    "Pending" : 0,
+                    "Played" : {
+                        "Allin Played" : 1,
+                        "BJ Played" : 1,
+                        "Coin Played" : 0,
+                        "Cups Played" : 0,
+                        "Dice Played" : 0,
+                        "Hi-Lo Played" : 0,
+                        "War Played" : 0
+                    },
+                    "Won" : {
+                        "Allin Won" : 0,
+                        "BJ Won" : 0,
+                        "Coin Won" : 0,
+                        "Cups Won" : 0,
+                        "Dice Won" : 0,
+                        "Hi-Lo Won" : 0,
+                        "War Won" : 0
+                    }
+                },
+                "228111371965956099" : {
+                    "Chips" : 4999999550,
+                    "Cooldowns" : {
+                        "Allin" : 1212797,
+                        "Blackjack" : 1212999,
+                        "Coin" : 1212425,
+                        "Cups" : 0,
+                        "Dice" : 0,
+                        "Hi-Lo" : 1189709,
+                        "Payday" : 1212833,
+                        "War" : 1189866
+                    },
+                    "Membership" : "Platinum-Admin",
+                    "Name" : "MaxDistructo",
+                    "Pending" : 0,
+                    "Played" : {
+                        "Allin Played" : 1,
+                        "BJ Played" : 8,
+                        "Coin Played" : 1,
+                        "Cups Played" : 0,
+                        "Dice Played" : 0,
+                        "Hi-Lo Played" : 1,
+                        "War Played" : 2
+                    },
+                    "Won" : {
+                        "Allin Won" : 0,
+                        "BJ Won" : 2,
+                        "Coin Won" : 1,
+                        "Cups Won" : 0,
+                        "Dice Won" : 0,
+                        "Hi-Lo Won" : 1,
+                        "War Won" : 1
+                    }
+                },
+                "83004494186549248" : {
+                    "Chips" : 999999810,
+                    "Cooldowns" : {
+                        "Allin" : 0,
+                        "Blackjack" : 1185071,
+                        "Coin" : 1212425,
+                        "Cups" : 0,
+                        "Dice" : 0,
+                        "Hi-Lo" : 0,
+                        "Payday" : 1184526,
+                        "War" : 0
+                    },
+                    "Membership" : "Platinum-Admin",
+                    "Name" : "Lufia LEEROYJENKINS",
+                    "Pending" : 0,
+                    "Played" : {
+                        "Allin Played" : 0,
+                        "BJ Played" : 4,
+                        "Coin Played" : 1,
+                        "Cups Played" : 0,
+                        "Dice Played" : 0,
+                        "Hi-Lo Played" : 0,
+                        "War Played" : 0
+                    },
+                    "Won" : {
+                        "Allin Won" : 0,
+                        "BJ Won" : 1,
+                        "Coin Won" : 0,
+                        "Cups Won" : 0,
+                        "Dice Won" : 0,
+                        "Hi-Lo Won" : 0,
+                        "War Won" : 0
+                    }
+                }
+            },
+            "System Config" : {
+                "Casino Name" : "Redjumpman",
+                "Casino Open" : true,
+                "Chip Name" : "Jump",
+                "Chip Rate" : 1,
+                "Credit Rate" : 1,
+                "Default Payday" : 100,
+                "Payday Timer" : 3,
+                "Threshold" : 10000,
+                "Threshold Switch" : false
+            }
+        }
+    }
+}

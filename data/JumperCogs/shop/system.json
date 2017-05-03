@@ -1,0 +1,22 @@
+{
+    "Servers" : {
+        "268370862661435392" : {
+            "Config" : {
+                "Inventory Output Method" : "Chat",
+                "Member Discount" : null,
+                "Notify Role" : "Shopkeeper",
+                "Pending Type" : "Manual",
+                "Shop Name" : "Jumpman's",
+                "Shop Notify" : false,
+                "Shop Open" : true,
+                "Sort Method" : "Alphabet",
+                "Store Output Method" : "Chat",
+                "Trade Cooldown" : 30
+            },
+            "Pending" : {},
+            "Shop List" : {},
+            "Users" : {}
+        }
+    },
+    "Version" : "2.2.5"
+}

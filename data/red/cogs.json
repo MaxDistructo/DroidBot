@@ -1,0 +1,22 @@
+{
+    "cogs.alias" : true,
+    "cogs.audio" : true,
+    "cogs.casino" : true,
+    "cogs.cleverbot" : false,
+    "cogs.customcom" : true,
+    "cogs.dicetable" : true,
+    "cogs.downloader" : true,
+    "cogs.droidbot" : true,
+    "cogs.economy" : true,
+    "cogs.fortune" : true,
+    "cogs.general" : true,
+    "cogs.image" : true,
+    "cogs.lottery" : true,
+    "cogs.mod" : true,
+    "cogs.pokedex" : true,
+    "cogs.raffle" : true,
+    "cogs.russianroulette" : true,
+    "cogs.shop" : true,
+    "cogs.streams" : true,
+    "cogs.trivia" : true
+}

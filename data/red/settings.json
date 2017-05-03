@@ -1,0 +1,14 @@
+{
+    "EMAIL" : null,
+    "OWNER" : "228111371965956099",
+    "PASSWORD" : null,
+    "PREFIXES" : [
+        "/"
+    ],
+    "TOKEN" : "MjY2NzMxNzg4NTk0OTcwNjM1.C1B82w.-RlQIzuBqWOEzTZm7g7nAx8a_NU",
+    "default" : {
+        "ADMIN_ROLE" : "Admin",
+        "MOD_ROLE" : "Moderator",
+        "PREFIXES" : []
+    }
+}
