@@ -53,3 +53,9 @@ Red is in continuous development, and it’s supported by an active community wh
 Released under the [GNU GPL v3](LICENSE).
 
 *Red is named after the main character of "Transistor", a videogame by [Supergiant Games](https://www.supergiantgames.com/games/transistor/)*
+
+# Branch Description
+
+This is my unstable development branch where untested and trial code is being implimented
+
+ - Current Project: Channel By Channel command enabling instead of all or nothing.
